@@ -2,7 +2,7 @@ body {
   font-size: 14px;
   font-family: Helvetica, sans-serif;
   color: #333;
-  background-image: url('/iantrann/assets/img/bgr.jpg');
+  background-image: url('../img/bgr.jpg');
   background-size: cover;
   background-position:center center;
 }
