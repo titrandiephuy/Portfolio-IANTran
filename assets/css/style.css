@@ -2,7 +2,7 @@ body {
   font-size: 14px;
   font-family: Helvetica, sans-serif;
   color: #333;
-  background-image: url(/assets/img/bgr.jpg);
+  background-image: url('../img/bgr.jpg');
   background-size: cover;
   background-position:center center;
 }
@@ -150,6 +150,7 @@ margin-bottom: 20px;
 .hobby-details {
   display: flex;
   justify-content: space-around;
+<<<<<<< HEAD
   padding: 0 0 20px 0;
   margin-top: 0px;
 }
@@ -162,3 +163,7 @@ margin-bottom: 20px;
   background:rgb(230, 212, 192);
   border-radius: px;
 }
+=======
+  padding: 30px 0px;
+}
+>>>>>>> 838b884ea0a9a2c64b9b37df5c0645a03c044062
